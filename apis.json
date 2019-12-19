@@ -1,0 +1,50 @@
+{
+    "name": "National Instruments",
+    "description": "NI equips engineers and scientists with systems that accelerate productivity, innovation, and discovery.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2672-national-instruments.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/national-instruments\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "National Instruments",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2672-national-instruments.jpg",
+            "humanURL": "http:\/\/www.ni.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/national-instruments-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.ni.com\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/national-instruments"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/niglobal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ni.com\/"
+        }
+    ]
+}
